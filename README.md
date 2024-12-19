@@ -2,19 +2,31 @@
 
 # There are 159 Electric Vehicle Models in this data set 
 
+
+
+
+
 ## Which cities and counties have the highest concentration of electric vehicles?
 
  ![q2](https://github.com/user-attachments/assets/6276285b-f9c7-40d6-8c3f-8abb7b65a29b)
 
 ![q2 1](https://github.com/user-attachments/assets/cbd5177e-ac4c-47e9-a8b1-2ac8e25c862a)
 
-##  Cities and Counties with Most EVs
-## Top City - Seattle - 35,000
-## Top County - King - 1 Lakh
+#  Cities and Counties with Most EVs
+# Top City - Seattle - 35,000
+# Top County - King - 1 Lakh
+
+
+
+
 
 ## How does the distribution of electric vehicles vary across different states?
 
 # WA has 2 Lakhs Electric Vehicle, about 99.79% of Total Vehicles
+
+
+
+
 
 ## Which electric utility companies serve the most EV owners?
 
@@ -22,9 +34,16 @@
 
 # PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA) has most EV owners (about 80K - 36% of Total Companies)
 
+
+
+
+
 ## Which vehicle make has the highest average electric range?
 
 # JAGUAR gives highest avg electric range - 199 Km/hr
+
+
+
 
 ## What is the most common type of electric vehicle?
 
@@ -33,6 +52,9 @@
 # Battery Electric Vehicle (BEV) is most commonly used (about 79%)
 
 ## Top Manufacturers of CAFV-Eligible Vehicles
+
+
+
 
 ![q6](https://github.com/user-attachments/assets/9ec8fd7a-9c3b-42cd-aa39-ad4f817dc563)
 
@@ -46,6 +68,11 @@
 
 # In 2008 and 2010 Most of ev manufactured TESLA, that why base MSRP is large
 
+
+
+
+
+
 ## How does Base MSRP correlate with Electric Range?
 
 ![q9](https://github.com/user-attachments/assets/6b259afd-f764-438d-8c7c-0b9379ca1665)
@@ -54,21 +81,38 @@
 # The electric range does not heavily influence the base MSRP.
 # Some manufacturers may price vehicles based on brand perception or additional features rather than the electric range alone.
 
+
+
+
+
+
 ## Is there a trend between newer model years and CAFV eligibility?
 
 ![q10](https://github.com/user-attachments/assets/30381b4c-22e3-4e2d-ad22-dae5c5dd7dae)
 
 # 2018 and 2020 Model year most vehicles eligible for CAFV
 
+
+
+
+
 ## Which counties have the highest average electric range for vehicles?
 
 # Highest average electric range make- Chatham, St. Louis, Denton (322)
+
+
+
+
 
 ## How has the diversity of makes and models evolved over time?
 
 ![q11](https://github.com/user-attachments/assets/e99f5d8f-2f68-4cde-bf8c-d887729e06b6)
 
 # 1999 to 2008 there are 1 manufacturer, Manufactures are increased from 2010, sharp increase in 2024
+
+
+
+
 
 ## Which vehicle models qualify most frequently for CAFV eligibility?
 
